@@ -14,8 +14,12 @@ access_token_secret = ""
 #Collect all the tweets in a list
 tweets = []
 
+<<<<<<< HEAD
 #fdsdfffds
 
+=======
+#fdsfeff
+>>>>>>> 751ae622095e93c242d0c121bc683fdcc3f20474
 #dsdsdsa
 
 #date filterds
