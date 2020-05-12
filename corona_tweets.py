@@ -22,7 +22,6 @@ tweets = []
 >>>>>>> 751ae622095e93c242d0c121bc683fdcc3f20474
 #dsdsdsa
 
-#date filterds
 start="2020-04-01"
 end= "2020-04-02"
 #startDate = datetime.datetime(2020, 4, 1, 0, 0, 0)
